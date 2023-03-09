@@ -22,7 +22,7 @@
 
 - 📫 How to reach me **pgelvezandrea@gmail.com**
 
-- 🌱 I'm currently learning on platzi about personal branding, data science, soft skills, React.js...**
+- 🌱 I'm currently learning on platzi about personal branding, data science, soft skills, React.js, Docker , Google cloud...**
 
 
 
