@@ -1,59 +1,60 @@
- <div id="header" align="center">
-    <img src="https://media.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif" width="200" />
-    <h1 align="center">Hi 👋, I'm paoGelvez</h1>
-    <h3 align="center">I am a web developer, attentive, constant and passionate about development, who strives to improve every day.</h3>
+ <div align="center">
+    <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="250" />
+    <h1>¡Hola 👋, soy Paola Gelvez!</h1>
+    <h3>Desarrolladora web | Apasionada por aprender, programar y crear proyectos que impacten 🚀</h3>
 </div>
 
-
-<div id="badges" align="center">
-    <a href="">
-      <img src="https://img.shields.io/twitter/follow/paolagelvez17?style=social" alt="Twitter Badge">
+<div align="center">
+    <a href="https://twitter.com/paolagelvez17">
+        <img src="https://img.shields.io/twitter/follow/paolagelvez17?style=social" alt="Twitter Badge" />
     </a>
-    
+    <a href="https://www.linkedin.com/in/paolagelvez/">
+        <img src="https://img.shields.io/badge/LinkedIn-Paola%20Gelvez-blue?style=flat-square&logo=linkedin" alt="LinkedIn Badge" />
+    </a>
+    <a href="mailto:pgelvezandrea@gmail.com">
+        <img src="https://img.shields.io/badge/Email-pgelvezandrea@gmail.com-red?style=flat-square&logo=gmail" alt="Email Badge" />
+    </a>
 </div>
 
 ---
 
-### 👨‍💻 About Me :
+### 👩‍💻 Sobre mí
+- 📝 Actualmente trabajando en **"Matchs"**, un servicio que conecta usuarios para comunicarse.  
+- 💬 Pregúntame sobre **PHP, Laravel, JavaScript, Node.js, MySQL, MongoDB, Python, Django, Java, SQL**.  
+- 🌱 Aprendiendo **React.js, Docker, Google Cloud, Data Science, Branding personal y Soft Skills**.  
+- 🌟 Me esfuerzo cada día por mejorar y crear proyectos significativos.
 
-- 📝 I'm working on a "Matchs" service project capable of linking a communication between 2 users.
+---
 
-- 💬 Ask me about **PHP, Laravel, Javascript , Nodejs, Mysql,mongoDb ** 
-
-- 📫 How to reach me **pgelvezandrea@gmail.com**
-
-- 🌱 I'm currently learning on platzi about personal branding, data science, soft skills, React.js, Docker , Google cloud...**
-
-
-
-<div align="left">
-    <h3>🔨 Languages and Tools:</h3>
-    <div>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" title="Git" **alt="Git" width="40" height="40"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg" title="Git" **alt="Git" width="40" height="40"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-         <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-      </div>
+### 🔧 Tecnologías que uso
+<div align="center">
+    <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="60" title="HTML5"/>
+    <img src="https://media.giphy.com/media/l0MYB8Ory7Hqefo9a/giphy.gif" width="60" title="CSS3"/>
+    <img src="https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif" width="60" title="JavaScript"/>
+    <img src="https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif" width="60" title="Bootstrap"/>
+    <img src="https://media.giphy.com/media/26xBukhM5bZy6ye2g/giphy.gif" width="60" title="MySQL"/>
+    <img src="https://media.giphy.com/media/3o6ZtaO9BZHcOjmErm/giphy.gif" width="60" title="SQL"/>
+    <img src="https://media.giphy.com/media/3ohs7KViFzvwKrjUic/giphy.gif" width="60" title="Git"/>
+    <img src="https://media.giphy.com/media/xT0GqFq0I3GIPkN1fy/giphy.gif" width="60" title="PHP"/>
+    <img src="https://media.giphy.com/media/3ohhwF34cGDoFFhRfy/giphy.gif" width="60" title="Laravel"/>
+    <img src="https://media.giphy.com/media/xT0Gq1pCQF8gVbtLJu/giphy.gif" width="60" title="Node.js"/>
+    <img src="https://media.giphy.com/media/3ohhwfW7t4xT3xg0RG/giphy.gif" width="60" title="MongoDB"/>
+    <img src="https://media.giphy.com/media/3o6ZsT1uVax7xZ8ZFe/giphy.gif" width="60" title="Python"/>
+    <img src="https://media.giphy.com/media/xT9IgL3vKxG5x6hV6Y/giphy.gif" width="60" title="Django"/>
+    <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="60" title="Java"/>
 </div>
 
 ---
 
-### 📊 My Stats :
+### 📊 Mis estadísticas en GitHub
+<div align="center">
+    [![Racha GitHub](http://github-readme-streak-stats.herokuapp.com?user=paoGelvez&theme=dark)](https://git.io/streak-stats)
+    <br>
+    ![Estadísticas GitHub](https://github-readme-stats.vercel.app/api?username=paoGelvez&show_icons=true&theme=radical)
+    <br>
+    [![Lenguajes principales](https://github-readme-stats.vercel.app/api/top-langs/?username=paoGelvez&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=paoGelvez&theme=onedark)](https://git.io/streak-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=paoGelvez&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paoGelvez&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-
- 
  
  
  
